@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
+  <diagram name="Seite-1" id="c58nAy0lKr5ARxotDnO0">
+    <mxGraphModel dx="1042" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;h1&gt;Gerät&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="410" width="270" x="230" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Passwortmanager" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kalender" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Email" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kontakte" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aufgaben" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Datei&lt;/div&gt;&lt;div&gt;Synchronisierung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Datei&lt;/div&gt;&lt;div&gt;Backup&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2FA Codes" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Fotos/ Videos&lt;/div&gt;&lt;div&gt;Backup&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ktw0rYqgfEPmuRZg0FAV-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Office&lt;/div&gt;&lt;div&gt;(Docs, Tabellen, Präsentationen)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
