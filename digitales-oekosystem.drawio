@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
   <diagram name="Seite-1" id="c58nAy0lKr5ARxotDnO0">
-    <mxGraphModel dx="1042" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,54 @@
         </mxCell>
         <mxCell id="ktw0rYqgfEPmuRZg0FAV-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="82.20731707317073" width="164.41499999999996" x="529.9337499999999" y="444.09146341463406" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;spacing=-2;" value="&lt;h1&gt;Smartphone - Google Pixel 10&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="561.75" width="548.05" x="160" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;Passwortmanager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bitwarden&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="173.70124999999996" y="652.2073170731708" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;Kalender&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Tutanota&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="173.70124999999996" y="748.1158536585365" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;Email&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Tutanota&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="173.70124999999996" y="844.0243902439024" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;Kontakte&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Tutanota&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="173.70124999999996" y="939.9329268292684" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;Aufgaben&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tasks.org&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="173.70124999999996" y="1035.841463414634" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;Datei&lt;/div&gt;&lt;div&gt;Synchronisierung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="351.8175" y="652.2073170731708" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;Datei&lt;/div&gt;&lt;div&gt;Backup&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="351.8175" y="748.1158536585365" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="2FA Codes" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="351.8175" y="844.0243902439024" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;Fotos/ Videos&lt;/div&gt;&lt;div&gt;Backup&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="351.8175" y="939.9329268292684" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;Office&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Docs, Tabellen, Präsentationen)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;OnlyOffice&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="351.8175" y="1035.841463414634" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;Notizen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Joplin mit Dropbox&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="529.9337499999999" y="652.2073170731708" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;&lt;b&gt;Browser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Firefox&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="529.9337499999999" y="748.1158536585365" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;Betriebssystem&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Stock Android&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="529.9337499999999" y="844.0243902439024" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="529.9337499999999" y="939.9329268292684" as="geometry" />
+        </mxCell>
+        <mxCell id="lV4VsAhr1XQgjb8yu-BM-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="82.20731707317073" width="164.41499999999996" x="529.9337499999999" y="1035.841463414634" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
